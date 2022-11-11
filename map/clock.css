@@ -16,7 +16,7 @@ body{
 main{
     justify-self: center;   /* 横方向中央揃え */
     align-self: center;     /* 縦方向中央揃え */
-    font-size: 9vh;
+    font-size: 24px;
     font-family: 'Rubik Mono One', sans-serif;
     text-align: center;
     }
