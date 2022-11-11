@@ -6,8 +6,8 @@
 }
  
 body{
-    background: linear-gradient(90deg, #4158D0, #C850C0 40%, #FFCC70); /*背景色*/
-    background: -webkit-linear-gradient(0deg, #4158D0, #C850C0 40%, #FFCC70); /*背景色*/
+    background: linear-gradient(90deg, #a9c9ff, #ffbbec 40%, #ffe1ab); /*背景色*/
+    background: -webkit-linear-gradient(0deg, #a9c9ff, #ffbbec 40%, #ffe1ab); /*背景色*/
     display: grid;                  /* CSSグリッド */
     grid-template-columns: 100vw;   /* ビューポート幅最大 */
     grid-template-rows: 100vh;      /* ビューポート高さ最大 */
@@ -16,8 +16,9 @@ body{
 main{
     justify-self: center;   /* 横方向中央揃え */
     align-self: center;     /* 縦方向中央揃え */
-    font-size: 16vh;
+    font-size: 9vh;
     font-family: 'Rubik Mono One', sans-serif;
+    text-align: center;
     }
 p{
     color: #1c2462; 
